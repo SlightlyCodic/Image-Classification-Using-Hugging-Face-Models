@@ -2,6 +2,9 @@
 
 A Streamlit-powered web app for classifying images using state-of-the-art AI models from Hugging Face. Instantly upload images, get predictions with confidence scores, and view detailed analytics—all in your browser.
 
+# Hosted Website Link
+https://slightlycodic-image-classification-using-hugging-fa-main-4t3ub6.streamlit.app/
+
 ## Features
 - **Image Classification**: Classify single images using top models like ViT and ResNet-50.
 - **Model Selection**: Choose between Google ViT (recommended) and Microsoft ResNet-50 (faster).
