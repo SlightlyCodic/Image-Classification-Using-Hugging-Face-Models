@@ -13,7 +13,7 @@ https://slightlycodic-image-classification-using-hugging-fa-main-4t3ub6.streamli
 - **Interactive Visualizations**: Bar charts and histograms for prediction classes and confidence distribution.
 
 ## Demo
-![Demo Screenshot](Monke.jpg)
+![Demo Screenshot](Monke.png)
 
 ## Getting Started
 ### Prerequisites
