@@ -30,10 +30,6 @@ https://slightlycodic-image-classification-using-hugging-fa-main-4t3ub6.streamli
    ```bash
    pip install -r requirements.txt
    ```
-   If `requirements.txt` is missing, install manually:
-   ```bash
-   pip install streamlit pandas numpy matplotlib seaborn pillow torch transformers
-   ```
 
 ### Run the App
 ```bash
