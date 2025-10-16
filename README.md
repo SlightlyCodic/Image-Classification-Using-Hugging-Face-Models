@@ -10,7 +10,7 @@ A Streamlit-powered web app for classifying images using state-of-the-art AI mod
 - **Interactive Visualizations**: Bar charts and histograms for prediction classes and confidence distribution.
 
 ## Demo
-![Demo Screenshot](demo_screenshot.png)
+![Demo Screenshot](Monke.jpg)
 
 ## Getting Started
 ### Prerequisites
